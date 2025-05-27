@@ -1,7 +1,7 @@
 # BOJ Programming
 
-📌 A repository to record and improve my problem-solving journey on [Baekjoon Online Judge (BOJ)](https://www.acmicpc.net/). Started on **April 1, 2025**.  
-📈 Track my progress on **[solved.ac profile](https://solved.ac/profile/kslvy)**
+- 📌 A repository to record and improve my problem-solving journey on [Baekjoon Online Judge (BOJ)](https://www.acmicpc.net/)
+- 📈 Track my progress on **[solved.ac profile](https://solved.ac/profile/kslvy)**
 
 ---
 
